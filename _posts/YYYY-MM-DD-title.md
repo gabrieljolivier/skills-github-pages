@@ -2,3 +2,4 @@
 title: "YOUR-TITLE"
 date: YYYY-MM-DD
 ---
+this is the blog post
